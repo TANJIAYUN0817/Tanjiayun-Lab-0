@@ -2,6 +2,7 @@
 
 int main()
 {
-    printf("I am the main branch\n");
+    printf("I am the feature branch\n");
     printf("Hello, world!\n");
+    printf("I like the feature branch\n");
 }
